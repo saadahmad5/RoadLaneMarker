@@ -15,4 +15,4 @@ Given an image of a road with visible lanes in white, and provided with the area
  ![Getting Started0](image.jpg)
 
 ### Output
- ![Getting Started1](output_image.jpg)
+ ![Getting Started1](output_image.png)
